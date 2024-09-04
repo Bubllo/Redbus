@@ -1,7 +1,8 @@
 # Redbus Data Engineering
 ---------------------------------------------------------------------------------------------------------------------
 <img src="image.png">
-<br>
+<be>
+</p>
 Step 1: Selection of website to scrap data<br>
       -> scrapped data from rebus.in using selenium
 
@@ -13,3 +14,10 @@ Step 3: Scrap the required fields
 Step 4: Store it into a database 
 <br>
 Step 5: Interactive application <br>
+</p>
+--------------------------------------------------------------------------------------------------------------------
+<P>HTML COLOR CODE</P>
+<p>https://htmlcolorcodes.com/</p>
+--------------------------------------------------------------------------------------------------------------------
+
+
