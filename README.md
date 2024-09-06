@@ -19,6 +19,6 @@ Step 5: Interactive application <br>
 <P>HTML COLOR CODE</P>
 <p>https://htmlcolorcodes.com/</p>
 ------------------------------------------------------------------------------------------------------------------
-<img src="application.jpeg">
+<img src="Application.jpeg">
 
 
